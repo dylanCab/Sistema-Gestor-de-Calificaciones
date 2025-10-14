@@ -118,7 +118,7 @@ int main()
         printf("%s -> Aprobados: %d | Reprobados: %d\n", materias[j], apruebanAsig[j], repruebanAsig[j]);
     }
 
-    printf("\nPresione cualquier tecla para salir...");
+    printf("\nPresione ENTER para salir...");
     getchar();
     getchar();
     return 0;
